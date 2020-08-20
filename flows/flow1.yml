@@ -1,0 +1,27 @@
+completion_text: |-
+  <p>dfs</p>
+description: |-
+  ds
+next_flow_id: ''
+next_flow_title: ''
+pages:
+- content: |-
+    <p>dsf</p>
+  id: intro
+  title: INICIO
+  type: Page
+- content: |-
+    <p>hjh</p>
+  id: page1
+  title: kkj
+  type: Page
+rules:
+  access:
+  - if_has_role:
+    - ta
+    - student
+    - instructor
+    permissions:
+    - view
+  grade_identifier: null
+title: fjnd
